@@ -1,6 +1,7 @@
 const nextConfig = {
+  reactStrictMode: true,
   experimental: {
-    appDir: true,
+    // remova 'appDir' se estiver configurado aqui
   },
 };
 
